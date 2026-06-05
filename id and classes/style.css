@@ -1,0 +1,17 @@
+.red{
+    color: rgb(0, 255, 81);
+    
+}
+
+#firstdiv{
+    background-color: rgb(153, 238, 238);
+    /* color: blue; */
+}
+.ironman{
+    color: rgb(234, 43, 43);
+
+}
+#seconddiv{
+    border: 2px solid black;
+    color: rgb(243, 145, 197);
+}
